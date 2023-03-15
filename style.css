@@ -26,7 +26,7 @@
 }
 /*main section*/
 .main-py-5{
-    background: url(background.jfif)no-repeat;
+    background: url("background.jfif")no-repeat;
     background-size: cover;
     width: 100%;
     height: 95vh;
